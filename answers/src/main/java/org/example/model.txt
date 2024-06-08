@@ -1,0 +1,51 @@
+###################
+# 2. Questionário #
+###################
+
+Nesta Secção o entrevistado deve de responder a cada uma das perguntas com o melhor dos seus conhecimentos.
+A soma dos valores de todas as perguntas deve de ser 100. Devem de estar presentes os seguintes tipos de perguntas:
+
+- [V/F] Uma pergunta com apenas uma resposta verdadeira ou falsa.
+- [Responda de forma breve] Uma pergunta com uma resposta de texto curto. O limite da resposta deve ser o especificado por uma expressão regular.
+- [Escolha] Uma pergunta com um conjunto de escolhas em que apenas uma pode ser selecionada.
+- [Escolha Múltipla] Uma pergunta com um conjunto de escolhas em que muitas podem ser seleccionadas.
+- [Número inteiro] Uma pergunta cuja resposta é um número inteiro
+- [Número decimal] Uma pergunta cuja resposta é um número decimal
+- [Data] Uma pergunta cuja resposta é uma data no formato dia/mes/ano
+- [Hora] Uma pergunta cuja resposta é uma hora no formato "2h"
+- [Escala Numérica] Uma pergunta cuja resposta é uma opção num intervalo de números inteiros (ex: 1-5)
+
+[Escolha multipla] Questao 1: Qual a ferramenta usada para o desenvolvimento do analisador sintatico?
+a. bison
+b. flex
+c. antlr
+Resposta: a, b, c
+
+[Responda de forma breve] Questao 2: Indique qual, na sua opiniao, a melhor linguagem de porgramacao para o desenvolvimento de uma Web API
+Resposta: node
+
+[V/F] Questao 3: Websites https sao mais seguros que http?
+Resposta: V
+
+###############
+# 3. Correção #
+###############
+
+Questao 1)
+[Escolha multipla]
+Resposta Correta: a, b, c (20)
+Resposta Alternativa: c (10) / a, b (10)
+
+Questao 2)
+[Responda Curta]
+Resposta Correta: node, .NET, php (20)
+
+Questao 3)
+[V/F]
+Resposta Correta: V / v / verdadeiro / Verdadeiro (20)
+
+
+
+
+ 
+

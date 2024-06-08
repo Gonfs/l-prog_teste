@@ -1,0 +1,56 @@
+
+Nome:
+Data de Nascimento:
+Numero de cartao de cidadao:
+Nivel de educacao:
+Habilitacoes:
+
+Introducao
+
+Esta entrevista disponivel pela informaticaXPTO dispoe do seguinte questionario para saber mais sobre o entrevistado. A resposta a todas as perguntas nao e
+obrigatorio e mais afetar a nota final da entrevista. Cada pergunta tem um tipo de resposta diferente e para saber como deve responder a cada pergunta siga
+as instrucoes divulgadas abaixo sobre cada tipo de pergunta.
+Escolha Multipla - 
+Opcao -  
+Responda de forma breve - 
+Data -  
+Tempo -  
+Intervalo - 
+Numero - 
+
+Questionario
+
+[Responda de forma breve] Questao 1: Mencione uma linguagem de programacao para o backend de um website.
+Resposta: 
+
+[Escolha multipla] Questao  2: Qual das seguintes opcoes e composta por uma libraria e nao uma framework.
+a. angular.
+b. react. 
+Resposta:
+
+
+Solucoes
+
+Questao  1
+Resposta: a,b,c Pontos: 20
+Resposta: a,b Pontos: 10
+Resposta: b,c Pontos: 10
+
+Questao  2
+Resposta: java Pontos: 10
+
+Questao  3
+Resposta: V Pontos: 10
+
+Questao  4
+Resposta: 5 Pontos: 10
+
+Questao  5
+Resposta: 5-10 Pontos: 10
+
+Questao  6
+Resposta: 10/12/2004 Pontos: 10
+ 
+
+
+
